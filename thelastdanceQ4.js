@@ -3,7 +3,7 @@ import { LightningElement, api } from 'lwc';
 import { ShowToastEvent } from 'lightning/platformShowToastEvent';
 import { NavigationMixin } from 'lightning/navigation';
 
-export default class CreateLead extends NavigationMixin(LightningElement) {
+export default class ThelastdanceQ4 extends NavigationMixin(LightningElement) {
   @api recordId; //para permitir que ela seja acessada a partir de outros componentes LWC.
 
   handleSuccess(event) {
